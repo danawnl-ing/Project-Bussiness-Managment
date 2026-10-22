@@ -3,4 +3,6 @@ SQLAlchemy
 pyodbc
 matplotlib
 seaborn
+scikit-learn
+scipy
 jupyter
